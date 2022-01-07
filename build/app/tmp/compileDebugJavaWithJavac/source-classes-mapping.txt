@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/souvikbiswas/inventory_apps/BuildConfig.java
- com.souvikbiswas.inventory_apps.BuildConfig
